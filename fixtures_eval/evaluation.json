@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "1",
+    "url": "https://hh.ru/vacancy/test-1",
+    "title": "Python Developer",
+    "company": "Test Company 1",
+    "description": "Python Developer. Работа в команде. Для связи с работодателем звоните: +7 999 001-1001."
+  },
+  {
+    "id": "2",
+    "url": "https://hh.ru/vacancy/test-2",
+    "title": "Backend Developer",
+    "company": "Test Company 2",
+    "description": "Backend Developer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 002-1002"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "url": "https://hh.ru/vacancy/test-3",
+    "title": "Data Analyst",
+    "company": "Test Company 3",
+    "description": "Data Analyst. Телефон для связи: 8 999 003-1003.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 003-1003"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "url": "https://hh.ru/vacancy/test-4",
+    "title": "QA Engineer",
+    "company": "Test Company 4",
+    "description": "QA Engineer. Работа в команде. Для связи с работодателем звоните: +7 999 004-1004."
+  },
+  {
+    "id": "5",
+    "url": "https://hh.ru/vacancy/test-5",
+    "title": "Sales Manager",
+    "company": "Test Company 5",
+    "description": "Sales Manager. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 005-1005"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "url": "https://hh.ru/vacancy/test-6",
+    "title": "Account Manager",
+    "company": "Test Company 6",
+    "description": "Account Manager. Телефон для связи: 8 999 006-1006.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 006-1006"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "url": "https://hh.ru/vacancy/test-7",
+    "title": "HR Specialist",
+    "company": "Test Company 7",
+    "description": "HR Specialist. Работа в команде. Для связи с работодателем звоните: +7 999 007-1007."
+  },
+  {
+    "id": "8",
+    "url": "https://hh.ru/vacancy/test-8",
+    "title": "Product Manager",
+    "company": "Test Company 8",
+    "description": "Product Manager. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 008-1008"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "url": "https://hh.ru/vacancy/test-9",
+    "title": "Frontend Developer",
+    "company": "Test Company 9",
+    "description": "Frontend Developer. Телефон для связи: 8 999 009-1009.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 009-1009"
+        }
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "url": "https://hh.ru/vacancy/test-10",
+    "title": "DevOps Engineer",
+    "company": "Test Company 10",
+    "description": "DevOps Engineer. Работа в команде. Для связи с работодателем звоните: +7 999 010-1010."
+  },
+  {
+    "id": "11",
+    "url": "https://hh.ru/vacancy/test-11",
+    "title": "Python Developer",
+    "company": "Test Company 11",
+    "description": "Python Developer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 011-1011"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "url": "https://hh.ru/vacancy/test-12",
+    "title": "Backend Developer",
+    "company": "Test Company 12",
+    "description": "Backend Developer. Телефон для связи: 8 999 012-1012.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 012-1012"
+        }
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "url": "https://hh.ru/vacancy/test-13",
+    "title": "Data Analyst",
+    "company": "Test Company 13",
+    "description": "Data Analyst. Работа в команде. Для связи с работодателем звоните: +7 999 013-1013."
+  },
+  {
+    "id": "14",
+    "url": "https://hh.ru/vacancy/test-14",
+    "title": "QA Engineer",
+    "company": "Test Company 14",
+    "description": "QA Engineer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 014-1014"
+        }
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "url": "https://hh.ru/vacancy/test-15",
+    "title": "Sales Manager",
+    "company": "Test Company 15",
+    "description": "Sales Manager. Телефон для связи: 8 999 015-1015.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 015-1015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "url": "https://hh.ru/vacancy/test-16",
+    "title": "Account Manager",
+    "company": "Test Company 16",
+    "description": "Account Manager. Работа в команде. Для связи с работодателем звоните: +7 999 016-1016."
+  },
+  {
+    "id": "17",
+    "url": "https://hh.ru/vacancy/test-17",
+    "title": "HR Specialist",
+    "company": "Test Company 17",
+    "description": "HR Specialist. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 017-1017"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "url": "https://hh.ru/vacancy/test-18",
+    "title": "Product Manager",
+    "company": "Test Company 18",
+    "description": "Product Manager. Телефон для связи: 8 999 018-1018.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 018-1018"
+        }
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "url": "https://hh.ru/vacancy/test-19",
+    "title": "Frontend Developer",
+    "company": "Test Company 19",
+    "description": "Frontend Developer. Работа в команде. Для связи с работодателем звоните: +7 999 019-1019."
+  },
+  {
+    "id": "20",
+    "url": "https://hh.ru/vacancy/test-20",
+    "title": "DevOps Engineer",
+    "company": "Test Company 20",
+    "description": "DevOps Engineer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 020-1020"
+        }
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "url": "https://hh.ru/vacancy/test-21",
+    "title": "Python Developer",
+    "company": "Test Company 21",
+    "description": "Python Developer. Телефон для связи: 8 999 021-1021.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 021-1021"
+        }
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "url": "https://hh.ru/vacancy/test-22",
+    "title": "Backend Developer",
+    "company": "Test Company 22",
+    "description": "Backend Developer. Работа в команде. Для связи с работодателем звоните: +7 999 022-1022."
+  },
+  {
+    "id": "23",
+    "url": "https://hh.ru/vacancy/test-23",
+    "title": "Data Analyst",
+    "company": "Test Company 23",
+    "description": "Data Analyst. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 023-1023"
+        }
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "url": "https://hh.ru/vacancy/test-24",
+    "title": "QA Engineer",
+    "company": "Test Company 24",
+    "description": "QA Engineer. Телефон для связи: 8 999 024-1024.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 024-1024"
+        }
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "url": "https://hh.ru/vacancy/test-25",
+    "title": "Sales Manager",
+    "company": "Test Company 25",
+    "description": "Sales Manager. Работа в команде. Для связи с работодателем звоните: +7 999 025-1025."
+  },
+  {
+    "id": "26",
+    "url": "https://hh.ru/vacancy/test-26",
+    "title": "Account Manager",
+    "company": "Test Company 26",
+    "description": "Account Manager. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 026-1026"
+        }
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "url": "https://hh.ru/vacancy/test-27",
+    "title": "HR Specialist",
+    "company": "Test Company 27",
+    "description": "HR Specialist. Телефон для связи: 8 999 027-1027.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 027-1027"
+        }
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "url": "https://hh.ru/vacancy/test-28",
+    "title": "Product Manager",
+    "company": "Test Company 28",
+    "description": "Product Manager. Работа в команде. Для связи с работодателем звоните: +7 999 028-1028."
+  },
+  {
+    "id": "29",
+    "url": "https://hh.ru/vacancy/test-29",
+    "title": "Frontend Developer",
+    "company": "Test Company 29",
+    "description": "Frontend Developer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 029-1029"
+        }
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "url": "https://hh.ru/vacancy/test-30",
+    "title": "DevOps Engineer",
+    "company": "Test Company 30",
+    "description": "DevOps Engineer. Телефон для связи: 8 999 030-1030.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 030-1030"
+        }
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "url": "https://hh.ru/vacancy/test-31",
+    "title": "Python Developer",
+    "company": "Test Company 31",
+    "description": "Python Developer. Работа в команде. Для связи с работодателем звоните: +7 999 031-1031."
+  },
+  {
+    "id": "32",
+    "url": "https://hh.ru/vacancy/test-32",
+    "title": "Backend Developer",
+    "company": "Test Company 32",
+    "description": "Backend Developer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 032-1032"
+        }
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "url": "https://hh.ru/vacancy/test-33",
+    "title": "Data Analyst",
+    "company": "Test Company 33",
+    "description": "Data Analyst. Телефон для связи: 8 999 033-1033.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 033-1033"
+        }
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "url": "https://hh.ru/vacancy/test-34",
+    "title": "QA Engineer",
+    "company": "Test Company 34",
+    "description": "QA Engineer. Работа в команде. Для связи с работодателем звоните: +7 999 034-1034."
+  },
+  {
+    "id": "35",
+    "url": "https://hh.ru/vacancy/test-35",
+    "title": "Sales Manager",
+    "company": "Test Company 35",
+    "description": "Sales Manager. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 035-1035"
+        }
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "url": "https://hh.ru/vacancy/test-36",
+    "title": "Account Manager",
+    "company": "Test Company 36",
+    "description": "Account Manager. Телефон для связи: 8 999 036-1036.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 036-1036"
+        }
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "url": "https://hh.ru/vacancy/test-37",
+    "title": "HR Specialist",
+    "company": "Test Company 37",
+    "description": "HR Specialist. Работа в команде. Для связи с работодателем звоните: +7 999 037-1037."
+  },
+  {
+    "id": "38",
+    "url": "https://hh.ru/vacancy/test-38",
+    "title": "Product Manager",
+    "company": "Test Company 38",
+    "description": "Product Manager. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 038-1038"
+        }
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "url": "https://hh.ru/vacancy/test-39",
+    "title": "Frontend Developer",
+    "company": "Test Company 39",
+    "description": "Frontend Developer. Телефон для связи: 8 999 039-1039.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 039-1039"
+        }
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "url": "https://hh.ru/vacancy/test-40",
+    "title": "DevOps Engineer",
+    "company": "Test Company 40",
+    "description": "DevOps Engineer. Работа в команде. Для связи с работодателем звоните: +7 999 040-1040."
+  },
+  {
+    "id": "41",
+    "url": "https://hh.ru/vacancy/test-41",
+    "title": "Python Developer",
+    "company": "Test Company 41",
+    "description": "Python Developer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 041-1041"
+        }
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "url": "https://hh.ru/vacancy/test-42",
+    "title": "Backend Developer",
+    "company": "Test Company 42",
+    "description": "Backend Developer. Телефон для связи: 8 999 042-1042.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 042-1042"
+        }
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "url": "https://hh.ru/vacancy/test-43",
+    "title": "Data Analyst",
+    "company": "Test Company 43",
+    "description": "Data Analyst. Работа в команде. Для связи с работодателем звоните: +7 999 043-1043."
+  },
+  {
+    "id": "44",
+    "url": "https://hh.ru/vacancy/test-44",
+    "title": "QA Engineer",
+    "company": "Test Company 44",
+    "description": "QA Engineer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 044-1044"
+        }
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "url": "https://hh.ru/vacancy/test-45",
+    "title": "Sales Manager",
+    "company": "Test Company 45",
+    "description": "Sales Manager. Телефон для связи: 8 999 045-1045.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 045-1045"
+        }
+      ]
+    }
+  },
+  {
+    "id": "46",
+    "url": "https://hh.ru/vacancy/test-46",
+    "title": "Account Manager",
+    "company": "Test Company 46",
+    "description": "Account Manager. Работа в команде. Для связи с работодателем звоните: +7 999 046-1046."
+  },
+  {
+    "id": "47",
+    "url": "https://hh.ru/vacancy/test-47",
+    "title": "HR Specialist",
+    "company": "Test Company 47",
+    "description": "HR Specialist. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 047-1047"
+        }
+      ]
+    }
+  },
+  {
+    "id": "48",
+    "url": "https://hh.ru/vacancy/test-48",
+    "title": "Product Manager",
+    "company": "Test Company 48",
+    "description": "Product Manager. Телефон для связи: 8 999 048-1048.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 048-1048"
+        }
+      ]
+    }
+  },
+  {
+    "id": "49",
+    "url": "https://hh.ru/vacancy/test-49",
+    "title": "Frontend Developer",
+    "company": "Test Company 49",
+    "description": "Frontend Developer. Работа в команде. Для связи с работодателем звоните: +7 999 049-1049."
+  },
+  {
+    "id": "50",
+    "url": "https://hh.ru/vacancy/test-50",
+    "title": "DevOps Engineer",
+    "company": "Test Company 50",
+    "description": "DevOps Engineer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 050-1050"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51",
+    "url": "https://hh.ru/vacancy/test-51",
+    "title": "Python Developer",
+    "company": "Test Company 51",
+    "description": "Python Developer. Телефон для связи: 8 999 051-1051.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 051-1051"
+        }
+      ]
+    }
+  },
+  {
+    "id": "52",
+    "url": "https://hh.ru/vacancy/test-52",
+    "title": "Backend Developer",
+    "company": "Test Company 52",
+    "description": "Backend Developer. Работа в команде. Для связи с работодателем звоните: +7 999 052-1052."
+  },
+  {
+    "id": "53",
+    "url": "https://hh.ru/vacancy/test-53",
+    "title": "Data Analyst",
+    "company": "Test Company 53",
+    "description": "Data Analyst. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 053-1053"
+        }
+      ]
+    }
+  },
+  {
+    "id": "54",
+    "url": "https://hh.ru/vacancy/test-54",
+    "title": "QA Engineer",
+    "company": "Test Company 54",
+    "description": "QA Engineer. Телефон для связи: 8 999 054-1054.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 054-1054"
+        }
+      ]
+    }
+  },
+  {
+    "id": "55",
+    "url": "https://hh.ru/vacancy/test-55",
+    "title": "Sales Manager",
+    "company": "Test Company 55",
+    "description": "Sales Manager. Работа в команде. Для связи с работодателем звоните: +7 999 055-1055."
+  },
+  {
+    "id": "56",
+    "url": "https://hh.ru/vacancy/test-56",
+    "title": "Account Manager",
+    "company": "Test Company 56",
+    "description": "Account Manager. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 056-1056"
+        }
+      ]
+    }
+  },
+  {
+    "id": "57",
+    "url": "https://hh.ru/vacancy/test-57",
+    "title": "HR Specialist",
+    "company": "Test Company 57",
+    "description": "HR Specialist. Телефон для связи: 8 999 057-1057.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 057-1057"
+        }
+      ]
+    }
+  },
+  {
+    "id": "58",
+    "url": "https://hh.ru/vacancy/test-58",
+    "title": "Product Manager",
+    "company": "Test Company 58",
+    "description": "Product Manager. Работа в команде. Для связи с работодателем звоните: +7 999 058-1058."
+  },
+  {
+    "id": "59",
+    "url": "https://hh.ru/vacancy/test-59",
+    "title": "Frontend Developer",
+    "company": "Test Company 59",
+    "description": "Frontend Developer. Резюме рассматриваем ежедневно. Контакты указаны в карточке вакансии.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 059-1059"
+        }
+      ]
+    }
+  },
+  {
+    "id": "60",
+    "url": "https://hh.ru/vacancy/test-60",
+    "title": "DevOps Engineer",
+    "company": "Test Company 60",
+    "description": "DevOps Engineer. Телефон для связи: 8 999 060-1060.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+7 999 060-1060"
+        }
+      ]
+    }
+  },
+  {
+    "id": "61",
+    "url": "https://hh.ru/vacancy/test-61",
+    "title": "Python Developer",
+    "company": "Global Test 61",
+    "description": "Python Developer. Contact recruiter by phone: +49 151 23456789."
+  },
+  {
+    "id": "62",
+    "url": "https://hh.ru/vacancy/test-62",
+    "title": "Backend Developer",
+    "company": "Global Test 62",
+    "description": "Backend Developer. Please use the phone listed in contacts.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+49 160 76543210"
+        }
+      ]
+    }
+  },
+  {
+    "id": "63",
+    "url": "https://hh.ru/vacancy/test-63",
+    "title": "Data Analyst",
+    "company": "Global Test 63",
+    "description": "Data Analyst. Contact recruiter by phone: +44 7700 900123."
+  },
+  {
+    "id": "64",
+    "url": "https://hh.ru/vacancy/test-64",
+    "title": "QA Engineer",
+    "company": "Global Test 64",
+    "description": "QA Engineer. Please use the phone listed in contacts.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+33 6 12 34 56 78"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65",
+    "url": "https://hh.ru/vacancy/test-65",
+    "title": "Sales Manager",
+    "company": "Global Test 65",
+    "description": "Sales Manager. Contact recruiter by phone: +1 202-555-0101."
+  },
+  {
+    "id": "66",
+    "url": "https://hh.ru/vacancy/test-66",
+    "title": "Account Manager",
+    "company": "Global Test 66",
+    "description": "Account Manager. Please use the phone listed in contacts.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+1 415-555-0132"
+        }
+      ]
+    }
+  },
+  {
+    "id": "67",
+    "url": "https://hh.ru/vacancy/test-67",
+    "title": "HR Specialist",
+    "company": "Global Test 67",
+    "description": "HR Specialist. Contact recruiter by phone: +34 612 34 56 78."
+  },
+  {
+    "id": "68",
+    "url": "https://hh.ru/vacancy/test-68",
+    "title": "Product Manager",
+    "company": "Global Test 68",
+    "description": "Product Manager. Please use the phone listed in contacts.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+39 347 123 4567"
+        }
+      ]
+    }
+  },
+  {
+    "id": "69",
+    "url": "https://hh.ru/vacancy/test-69",
+    "title": "Frontend Developer",
+    "company": "Global Test 69",
+    "description": "Frontend Developer. Contact recruiter by phone: +31 6 12345678."
+  },
+  {
+    "id": "70",
+    "url": "https://hh.ru/vacancy/test-70",
+    "title": "DevOps Engineer",
+    "company": "Global Test 70",
+    "description": "DevOps Engineer. Please use the phone listed in contacts.",
+    "contacts": {
+      "phones": [
+        {
+          "value": "+48 512 345 678"
+        }
+      ]
+    }
+  },
+  {
+    "id": "81",
+    "url": "https://hh.ru/vacancy/test-81",
+    "title": "Analyst",
+    "company": "Numbers Inc",
+    "description": "Vacancy ID: 79991234567. Salary 150000 RUB."
+  },
+  {
+    "id": "82",
+    "url": "https://hh.ru/vacancy/test-82",
+    "title": "Developer",
+    "company": "Digits LLC",
+    "description": "Office: 1234567890, ticket #20260001."
+  },
+  {
+    "id": "83",
+    "url": "https://hh.ru/vacancy/test-83",
+    "title": "Manager",
+    "company": "Finance Test",
+    "description": "ИНН 7701234567, ОГРН 1027700000000."
+  },
+  {
+    "id": "84",
+    "url": "https://hh.ru/vacancy/test-84",
+    "title": "QA Engineer",
+    "company": "Test Lab",
+    "description": "Артикул 89991234567. Телефона в вакансии нет."
+  },
+  {
+    "id": "85",
+    "url": "https://hh.ru/vacancy/test-85",
+    "title": "Recruiter",
+    "company": "People Test",
+    "description": "График 5/2, опыт 3 года, вакансия №89991234567."
+  },
+  {
+    "id": "86",
+    "url": "https://hh.ru/vacancy/test-86",
+    "title": "Data Analyst",
+    "company": "Metrics Co",
+    "description": "Бюджет проекта: 7 999 123 456 рублей."
+  },
+  {
+    "id": "87",
+    "url": "https://hh.ru/vacancy/test-87",
+    "title": "Support",
+    "company": "Helpdesk Test",
+    "description": "Код заявки: +799912345678901234."
+  },
+  {
+    "id": "88",
+    "url": "https://hh.ru/vacancy/test-88",
+    "title": "Developer",
+    "company": "Long Digits",
+    "description": "Сборка #79991234567, релиз 2026-09-17."
+  },
+  {
+    "id": "89",
+    "url": "https://hh.ru/vacancy/test-89",
+    "title": "Sales",
+    "company": "Office Test",
+    "description": "Внутренний номер офиса 12345."
+  },
+  {
+    "id": "90",
+    "url": "https://hh.ru/vacancy/test-90",
+    "title": "Designer",
+    "company": "Creative Test",
+    "description": "Портфолио: project-79991234567."
+  },
+  {
+    "id": "91",
+    "url": "https://hh.ru/vacancy/test-91",
+    "title": "Python Developer",
+    "company": "Negative Test 91",
+    "description": "Зарплата: 70000001370 руб. Телефон не публикуется."
+  },
+  {
+    "id": "92",
+    "url": "https://hh.ru/vacancy/test-92",
+    "title": "Backend Developer",
+    "company": "Negative Test 92",
+    "description": "Номер заявки: 70000001507. Все вопросы через чат."
+  },
+  {
+    "id": "93",
+    "url": "https://hh.ru/vacancy/test-93",
+    "title": "Data Analyst",
+    "company": "Negative Test 93",
+    "description": "Идентификатор клиента: 70000001644. Телефон не указан."
+  },
+  {
+    "id": "94",
+    "url": "https://hh.ru/vacancy/test-94",
+    "title": "QA Engineer",
+    "company": "Negative Test 94",
+    "description": "Номер заказа 70000001781; свяжитесь через отклик на вакансию."
+  },
+  {
+    "id": "95",
+    "url": "https://hh.ru/vacancy/test-95",
+    "title": "Sales Manager",
+    "company": "Negative Test 95",
+    "description": "Код позиции: 70000001918. Контактных телефонов нет."
+  },
+  {
+    "id": "96",
+    "url": "https://hh.ru/vacancy/test-96",
+    "title": "Account Manager",
+    "company": "Negative Test 96",
+    "description": "В вакансии используется номер документа 70000002055, это не контакт."
+  },
+  {
+    "id": "97",
+    "url": "https://hh.ru/vacancy/test-97",
+    "title": "HR Specialist",
+    "company": "Negative Test 97",
+    "description": "Зарплата: 70000002192 руб. Телефон не публикуется."
+  },
+  {
+    "id": "98",
+    "url": "https://hh.ru/vacancy/test-98",
+    "title": "Product Manager",
+    "company": "Negative Test 98",
+    "description": "Номер заявки: 70000002329. Все вопросы через чат."
+  },
+  {
+    "id": "99",
+    "url": "https://hh.ru/vacancy/test-99",
+    "title": "Frontend Developer",
+    "company": "Negative Test 99",
+    "description": "Идентификатор клиента: 70000002466. Телефон не указан."
+  },
+  {
+    "id": "100",
+    "url": "https://hh.ru/vacancy/test-100",
+    "title": "DevOps Engineer",
+    "company": "Negative Test 100",
+    "description": "Номер заказа 70000002603; свяжитесь через отклик на вакансию."
+  },
+  {
+    "id": "101",
+    "url": "https://hh.ru/vacancy/test-101",
+    "title": "Python Developer",
+    "company": "Negative Test 101",
+    "description": "Код позиции: 70000002740. Контактных телефонов нет."
+  },
+  {
+    "id": "102",
+    "url": "https://hh.ru/vacancy/test-102",
+    "title": "Backend Developer",
+    "company": "Negative Test 102",
+    "description": "В вакансии используется номер документа 70000002877, это не контакт."
+  },
+  {
+    "id": "103",
+    "url": "https://hh.ru/vacancy/test-103",
+    "title": "Data Analyst",
+    "company": "Negative Test 103",
+    "description": "Зарплата: 70000003014 руб. Телефон не публикуется."
+  },
+  {
+    "id": "104",
+    "url": "https://hh.ru/vacancy/test-104",
+    "title": "QA Engineer",
+    "company": "Negative Test 104",
+    "description": "Номер заявки: 70000003151. Все вопросы через чат."
+  },
+  {
+    "id": "105",
+    "url": "https://hh.ru/vacancy/test-105",
+    "title": "Sales Manager",
+    "company": "Negative Test 105",
+    "description": "Идентификатор клиента: 70000003288. Телефон не указан."
+  },
+  {
+    "id": "106",
+    "url": "https://hh.ru/vacancy/test-106",
+    "title": "Account Manager",
+    "company": "Negative Test 106",
+    "description": "Номер заказа 70000003425; свяжитесь через отклик на вакансию."
+  },
+  {
+    "id": "107",
+    "url": "https://hh.ru/vacancy/test-107",
+    "title": "HR Specialist",
+    "company": "Negative Test 107",
+    "description": "Код позиции: 70000003562. Контактных телефонов нет."
+  },
+  {
+    "id": "108",
+    "url": "https://hh.ru/vacancy/test-108",
+    "title": "Product Manager",
+    "company": "Negative Test 108",
+    "description": "В вакансии используется номер документа 70000003699, это не контакт."
+  },
+  {
+    "id": "109",
+    "url": "https://hh.ru/vacancy/test-109",
+    "title": "Frontend Developer",
+    "company": "Negative Test 109",
+    "description": "Зарплата: 70000003836 руб. Телефон не публикуется."
+  },
+  {
+    "id": "110",
+    "url": "https://hh.ru/vacancy/test-110",
+    "title": "DevOps Engineer",
+    "company": "Negative Test 110",
+    "description": "Номер заявки: 70000003973. Все вопросы через чат."
+  },
+  {
+    "id": "111",
+    "url": "https://hh.ru/vacancy/test-111",
+    "title": "Python Developer",
+    "company": "Negative Test 111",
+    "description": "Идентификатор клиента: 70000004110. Телефон не указан."
+  },
+  {
+    "id": "112",
+    "url": "https://hh.ru/vacancy/test-112",
+    "title": "Backend Developer",
+    "company": "Negative Test 112",
+    "description": "Номер заказа 70000004247; свяжитесь через отклик на вакансию."
+  },
+  {
+    "id": "113",
+    "url": "https://hh.ru/vacancy/test-113",
+    "title": "Data Analyst",
+    "company": "Negative Test 113",
+    "description": "Код позиции: 70000004384. Контактных телефонов нет."
+  },
+  {
+    "id": "114",
+    "url": "https://hh.ru/vacancy/test-114",
+    "title": "QA Engineer",
+    "company": "Negative Test 114",
+    "description": "В вакансии используется номер документа 70000004521, это не контакт."
+  },
+  {
+    "id": "115",
+    "url": "https://hh.ru/vacancy/test-115",
+    "title": "Sales Manager",
+    "company": "Negative Test 115",
+    "description": "Зарплата: 70000004658 руб. Телефон не публикуется."
+  },
+  {
+    "id": "116",
+    "url": "https://hh.ru/vacancy/test-116",
+    "title": "Account Manager",
+    "company": "Negative Test 116",
+    "description": "Номер заявки: 70000004795. Все вопросы через чат."
+  },
+  {
+    "id": "117",
+    "url": "https://hh.ru/vacancy/test-117",
+    "title": "HR Specialist",
+    "company": "Negative Test 117",
+    "description": "Идентификатор клиента: 70000004932. Телефон не указан."
+  },
+  {
+    "id": "118",
+    "url": "https://hh.ru/vacancy/test-118",
+    "title": "Product Manager",
+    "company": "Negative Test 118",
+    "description": "Номер заказа 70000005069; свяжитесь через отклик на вакансию."
+  },
+  {
+    "id": "119",
+    "url": "https://hh.ru/vacancy/test-119",
+    "title": "Frontend Developer",
+    "company": "Negative Test 119",
+    "description": "Код позиции: 70000005206. Контактных телефонов нет."
+  },
+  {
+    "id": "120",
+    "url": "https://hh.ru/vacancy/test-120",
+    "title": "DevOps Engineer",
+    "company": "Negative Test 120",
+    "description": "В вакансии используется номер документа 70000005343, это не контакт."
+  }
+]

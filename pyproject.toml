@@ -1,0 +1,29 @@
+[project]
+name = "resumetto-phone-mvp"
+version = "0.1.0"
+description = "Standalone MVP for detecting phone numbers in HH.ru vacancies"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.7,<3",
+    "httpx>=0.27,<1",
+    "phonenumbers>=8.13,<9",
+    "python-dotenv>=1.0,<2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<9",
+]
+
+[project.scripts]
+resumetto = "app.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+include = ["app*"]

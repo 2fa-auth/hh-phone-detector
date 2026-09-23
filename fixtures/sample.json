@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "url": "https://hh.ru/vacancy/1",
+    "title": "Python Developer",
+    "company": "Example LLC",
+    "description": "Звоните +7 (999) 123-45-67, обсудим вакансию.",
+    "contacts": null
+  },
+  {
+    "id": "2",
+    "url": "https://hh.ru/vacancy/2",
+    "title": "Backend Developer",
+    "company": "Another LLC",
+    "description": "Резюме отправляйте через HH.",
+    "contacts": {
+      "phones": [
+        {"value": "+7 916 555 44 33"}
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "url": "https://hh.ru/vacancy/3",
+    "title": "Analyst",
+    "company": "Numbers Inc",
+    "description": "ID вакансии: 123456789. Зарплата 150000.",
+    "contacts": null
+  },
+  {
+    "id": "4",
+    "url": "https://hh.ru/vacancy/4",
+    "title": "Sales Manager",
+    "company": "Example LLC",
+    "description": "Телефон: +7 999 123-45-67",
+    "contacts": {
+      "phones": [
+        {"value": "8 (999) 123-45-67"}
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "url": "https://hh.ru/vacancy/5",
+    "title": "International Recruiter",
+    "company": "Global LLC",
+    "description": "Call +49 151 23456789.",
+    "contacts": null
+  }
+]

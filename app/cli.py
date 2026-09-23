@@ -96,7 +96,7 @@ def main() -> None:
         phone_vacancies = sum(result.has_phone for result in results)
 
         if args.only_with_phone:
-          results = [result for result in results if result.has_phone]
+            results = [result for result in results if result.has_phone]
 
         args.output_dir.mkdir(parents=True, exist_ok=True)
 

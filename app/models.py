@@ -1,6 +1,5 @@
 from pydantic import BaseModel, ConfigDict, Field
 
-
 class VacancyInput(BaseModel):
     model_config = ConfigDict(extra="ignore")
 
@@ -11,12 +10,10 @@ class VacancyInput(BaseModel):
     description: str = ""
     contacts: object | None = None
 
-
 class PhoneContact(BaseModel):
     raw: str
     normalized: str
     source: str
-
 
 class VacancyPhoneResult(BaseModel):
     vacancy_id: str

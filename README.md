@@ -41,7 +41,7 @@ resumetto analyze fixtures --output-dir output --only-with-phone
 ## Тесты
 
 ```bash
-pytest
+python -m pytest
 ```
 
 ## Evaluation

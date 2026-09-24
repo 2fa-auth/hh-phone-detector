@@ -97,56 +97,6 @@ Recall:    98.57%
 `phonenumbers` как невалидный. Валидация `is_valid_number()` намеренно не ослабляется,
 чтобы не превращать произвольные длинные числовые идентификаторы в телефоны.
 
-## Архитектура
-
-```text
-HH API / fixtures
-       |
-       v
-  VacancyInput
-       |
-       v
-  PhoneExtractor
-       |
-       v
- phonenumbers
-       |
-       v
-  E.164 + dedup
-       |
-       v
-VacancyPhoneResult
-```
-
-Основные компоненты:
-
-- `app/models.py` — входные и выходные модели;
-- `app/phones/extractor.py` — поиск кандидатов, контекстная фильтрация и deduplication;
-- `app/phones/normalizer.py` — parsing, validation и E.164 normalization;
-- `app/pipeline.py` — анализ одной вакансии и batch processing;
-- `app/sources/fixtures.py` — загрузка fixtures;
-- `app/sources/hh.py` — отдельный adapter для HH.ru API;
-- `app/cli.py` — CLI и запись JSON/CSV.
-
-CLI в текущем MVP работает с fixtures. HH API adapter отделён от основного pipeline,
-поэтому источник данных можно заменить без изменения phone detection logic.
-
-## Почему без LLM
-
-Для первой версии задачи LLM не требуется. Номер телефона можно определять
-детерминированным pipeline: regex используется только для поиска кандидатов,
-а `phonenumbers` выполняет parsing и validation.
-
-Это также позволяет не генерировать контакты и не искать их за пределами самой вакансии.
-
-## Ограничения
-
-- Evaluation dataset synthetic и небольшой.
-- Текущая версия определяет только телефоны.
-- Для номеров без country code используется `DEFAULT_PHONE_REGION`.
-- Автоматический поиск вакансий через HH API не является частью CLI-команды `analyze`;
-  для API есть отдельный `HHClient` adapter.
-
 ## Конфигурация
 
 `.env.example`:
@@ -155,35 +105,4 @@ CLI в текущем MVP работает с fixtures. HH API adapter отде�
 HH_API_TOKEN=
 DEFAULT_PHONE_REGION=RU
 HTTP_TIMEOUT=10
-```
-
-Секреты не должны добавляться в Git. Файл `.env` находится в `.gitignore`.
-
-## Структура проекта
-
-```text
-.
-├── app/
-│   ├── cli.py
-│   ├── models.py
-│   ├── pipeline.py
-│   ├── phones/
-│   │   ├── extractor.py
-│   │   └── normalizer.py
-│   └── sources/
-│       ├── fixtures.py
-│       └── hh.py
-├── evaluation/
-│   ├── REPORT.md
-│   ├── evaluate_results.py
-│   └── gold.csv
-├── fixtures/
-│   └── sample.json
-├── fixtures_eval/
-│   └── evaluation.json
-├── tests/
-├── .env.example
-├── .gitignore
-├── pyproject.toml
-└── README.md
 ```
